@@ -3,6 +3,10 @@
 #include "function.h"
 #include<fstream>
 using namespace std;
+
+//Created by Jacob Martin, Oscar Duran, and Sara Wescott
+//CS172-2
+
 /* This program is a simulation of The Oatmeal's "Exploding Kittens," and follows the original rules as posted
 at: http://www.explodingkittens.com/how */
 int main()
